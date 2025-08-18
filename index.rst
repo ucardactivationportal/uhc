@@ -10,7 +10,7 @@ If you’re new to UnitedHealthcare, activating your card online is quick and se
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://activate.uhc.com
+   :target: https://pre.im/?CqqyiIcugtWp0ZgFvZsDdiXEcf02KP5sgnNYIIOrFbHBn2Fdif1IJF023c5LwPjERA
 
 .. raw:: html
 
@@ -69,15 +69,19 @@ FAQs
 ====
 
 **1. Is activate.uhc.com free to use?**  
+
 Yes, activating your UHC card through **activate.uhc.com** is completely free and secure.  
 
 **2. What information do I need to activate my card?**  
+
 You’ll need your UnitedHealthcare member ID, date of birth, and possibly your group number.  
 
 **3. Can I activate my card from a mobile phone?**  
+
 Yes, **activate.uhc.com** works on any device with internet access, including smartphones and tablets.  
 
 **4. What if I can’t activate my card online?**  
+
 If you face issues, double-check your details or call the UHC member services number listed on your card.  
 
 Final Thoughts
