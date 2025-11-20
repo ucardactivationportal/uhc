@@ -10,8 +10,7 @@ If you’re new to UnitedHealthcare, activating your card online is quick and se
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://pre.im/?CqqyiIcugtWp0ZgFvZsDdiXEcf02KP5sgnNYIIOrFbHBn2Fdif1IJF023c5LwPjERA
-
+   :target:  https://us6.my?aHR0cHM6Ly91Y2FyZC1hY3RpdmF0aW9uLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 .. raw:: html
 
     </div>
